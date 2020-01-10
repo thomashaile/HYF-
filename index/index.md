@@ -1,4 +1,4 @@
-# This is my first multple page liknk
+# This is my first multple page link
 
 you will find all links to my course contents and personal info
 
